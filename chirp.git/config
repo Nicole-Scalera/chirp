@@ -5,5 +5,5 @@
 	symlinks = false
 	ignorecase = true
 [remote "origin"]
-	url = https://github.com/Nicole-Scalera/chirp.git
+	url = https://github.com/Nicole-Scalera/chirp
 	fetch = +refs/heads/*:refs/remotes/origin/*
