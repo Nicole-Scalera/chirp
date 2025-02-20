@@ -1,5 +1,3 @@
-package _01_02b;
-
 public class Employee {
 
   public static void main(String[] args) {
