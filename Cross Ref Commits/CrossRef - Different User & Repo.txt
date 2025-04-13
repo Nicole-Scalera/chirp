@@ -1,0 +1,1 @@
+This is to test to see if I can cross reference another user's repository in a commit message (via GitHub Desktop). Namely, this is different from referencing a specific commit. Sometimes I just want to reference the entire repo, but without having to copy and paste the entire link.
